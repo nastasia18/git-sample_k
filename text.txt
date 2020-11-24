@@ -1,2 +1,3 @@
 Hello GIT!
 It's new line
+Add new line.
